@@ -3,11 +3,11 @@ create a config file with below code and relpace according to your,
 module.exports = {
     mysql: {
         host: 'localhost',
-        user: '<dbusername>',
-        password: '<dbpassword>',
-        database: '<dbname>'
+        user: '[dbusername]',
+        password: '[dbpassword]',
+        database: '[dbname]'
     },
-    mongodbUrl: '<mongodb://127.0.0.1:27017/dbname>'
+    mongodbUrl: '[mongodb://127.0.0.1:27017/dbname]'
 
 }
 
